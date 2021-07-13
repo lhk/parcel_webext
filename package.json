@@ -1,0 +1,24 @@
+{
+  "name": "parcel_webext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhk/parcel_webext.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhk/parcel_webext/issues"
+  },
+  "homepage": "https://github.com/lhk/parcel_webext#readme",
+  "devDependencies": {
+    "@parcel/config-webextension": "^2.0.0-beta.3.1",
+    "parcel": "^2.0.0-beta.3.1"
+  }
+}
